@@ -1,4 +1,4 @@
-<h2><img src="https://cdn.discordapp.com/attachments/1057664090429997156/1194052989976072254/namaste.png?ex=65aef381&is=659c7e81&hm=eba8778c93ddbf3988850589231e72015f929f97e38734ec6680734ff35a0d26" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
+<h2><img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
 
 </em></p>
 
@@ -54,11 +54,7 @@
 
 
 </div>
-<h3 align="center">
-Reach Me On Discord
-</p>
-<a href="https://discord.gg/UHhyB7r267" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1056246612789309481?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
+
 </p>
  <div>
 
