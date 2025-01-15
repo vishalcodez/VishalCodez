@@ -50,7 +50,7 @@
 	
   | _**Github Stats**_ | _**Top Languages**_ |
   | ----------- | ------------- |
-  | <img src="https://github-readme-stats.vercel.app/api?username=wthvishal&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalcodez&layout=compact&theme=dark"/> |
+  | <img src="https://github-readme-stats.vercel.app/api?username=vishalcodez&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalcodez&layout=compact&theme=dark"/> |
 
 
 </div>
