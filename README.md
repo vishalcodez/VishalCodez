@@ -1,4 +1,4 @@
-<h2><img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="30"/> नमस्ते (Namaste) I'm Vishal <img 
+<h2><img src="https://i.pinimg.com/originals/92/59/8f/92598f86d39965bbc493ce8b3f141d2d.gif" width="30"/> Hi <img 
 
 </em></p>
 
